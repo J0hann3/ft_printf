@@ -4,7 +4,7 @@
 >You will mainly learn about using a variable number of arguments. How cool is that??
 >It is actually pretty cool :)
 
-[Subject Prinft Project 42](https://cdn.intra.42.fr/pdf/pdf/105483/en.subject.pdf)
+[Subject Ft_Printf Project 42](ft_printf.pdf)
 
 ## Makefile
 
